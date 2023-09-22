@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "365482455004",
+    "project_id": "compressanduploadimage",
+    "storage_bucket": "compressanduploadimage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365482455004:android:08b911590d379ded9f6919",
+        "android_client_info": {
+          "package_name": "com.animeshcodes.tracklocation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApRg60EwTaLyKLttM1TRrAQUdqzMUJ0hw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365482455004:android:e5e4a1841d2bc3989f6919",
+        "android_client_info": {
+          "package_name": "com.example.compressanduploadimage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApRg60EwTaLyKLttM1TRrAQUdqzMUJ0hw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

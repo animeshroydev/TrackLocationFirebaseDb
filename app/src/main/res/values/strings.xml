@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TrackLocation</string>
+    <string name="tap_to_get_current_location_and_track_in_firebase_database">Tap to Get current location and track in Firebase realtime database</string>
+</resources>
